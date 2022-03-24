@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.greglturnquist</groupId>
+  <artifactId>hacking-spring-boot-ch9-reactive-repository</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220225074642</lastUpdated>
+  </versioning>
+</metadata>
